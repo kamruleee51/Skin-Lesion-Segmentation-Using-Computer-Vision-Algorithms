@@ -14,6 +14,9 @@ This challange has three parts which are
   * Part 3: Disease Classification
   
 Currently, I am working on the first part and after getting the significant results for the segmentation I will move to next one. 
-In the challenge results, it is seen that most of toppers have severall methods that are used for ensembling to get better semantic segmentation. My target is to design one end to end DCNN that will do semantic segmentation with sufficient robustness. 
+In the challenge results, it is seen that most of toppers have severall methods that are used for ensembling to get better semantic segmentation. Moreover, some them has post and pre-processing to get the provided results. 
+
+
+My target is to design one end to end DCNN that will do semantic segmentation with sufficient robustness. 
 
 More details about the implementation will be add very soon. Keep in touch :P
